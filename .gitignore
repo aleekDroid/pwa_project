@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -155,3 +156,8 @@ vite.config.ts.timestamp-*
 .nx/cache
 .nx/workspace-data
 .nx/migrate-runs
+=======
+node_modules/
+.vercel/
+.idea/
+>>>>>>> c55e3a4 (Preparar UTEQGram para despliegue)
